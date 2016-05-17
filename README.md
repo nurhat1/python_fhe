@@ -2,4 +2,4 @@
 PYFHE is a library implementing a fully homomorphic cryptosystem by A.Abramov.
 
 
-this will be filled soon
+info on this project will be filled soon
