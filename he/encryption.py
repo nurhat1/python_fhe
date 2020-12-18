@@ -40,7 +40,6 @@ def isrealpoly(poly):
 def poly(coeffs):
     '''
     Builds a lambda function from a set of coefficients
-
     :param coeffs: array of int coeeficients of the polynomial
     :return: lambda function representing this polynomial
     '''
@@ -53,6 +52,7 @@ def poly(coeffs):
         result = 0
         for i, c in enumerate(coeffs):
             result += c * (x ** i)
+        # print(f"result: {result}")
         return result
 
     return calc
