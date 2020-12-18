@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: he
+Version: 1.0
+Summary: Python homomorphic system
+Home-page: UNKNOWN
+Author: Konstantin Malysh
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Security :: Cryptography
